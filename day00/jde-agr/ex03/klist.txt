@@ -1,0 +1,5 @@
+Credentials cache: API:087B5832-2245-4927-99DE-A8CF4F0DD3C2
+        Principal: jde-agr@42.FR
+
+  Issued                Expires               Principal
+Apr  9 17:01:28 2018  Apr 16 17:01:25 2018  krbtgt/42.FR@42.FR
